@@ -6,6 +6,16 @@ Este projeto analisa dados da Pesquisa Nacional por Amostra de Domicílios (PNAD
 O objetivo é explorar e visualizar informações sobre a educação da população brasileira, especialmente da Geração Y.
 
 
+## Dados
+
+Os dados da PNAD utilizados neste projeto estão disponíveis no Google Drive. Você pode acessá-los através do seguinte link:
+
+[Download dos Dados PNAD](https://drive.google.com/file/d/11NhqmOyPqF422qDy0euHsiDXx5EhME13/view?usp=sharing).
+
+
+Por favor, faça o download e coloque o arquivo no mesmo diretório do notebook antes de executar as análises.
+
+
 ## Objetivos 🎯
 - Explorar dados educacionais da PNAD.
 - Analisar variáveis como idade, sexo e raça.
